@@ -1,5 +1,5 @@
 <p align="center">
-  <gif src="shelby-gif.gif" width="350" title="Kuuro">
+  <gif src="Kuuro0/shelby-gif.gif" width="350" title="Kuuro">
   <gif src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 

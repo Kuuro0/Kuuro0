@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ![Cover](https://github.com/Kuuro0/image0_1-1.gif
+### ![Cover] https://github.com/Kuuro0/image0_1-1.gif
 
 
 <!--
